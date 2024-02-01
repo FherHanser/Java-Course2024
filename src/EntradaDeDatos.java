@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class EntradaDeDatos {
 
     public static void main(String[] args) {
-        
+
         Scanner entradaUno = new Scanner(System.in);
         Scanner entradaDos = new Scanner(System.in);
 
@@ -14,7 +14,7 @@ public class EntradaDeDatos {
         System.out.println("Ingrese un número:  ");
         numeroUno = entradaUno.nextInt();
 
-        System.out.println("Ingrse otro número:  ");
+        System.out.println("Ingrese otro número:  ");
         numeroDos = entradaDos.nextInt();
 
 //Operaciones + Respuesta
