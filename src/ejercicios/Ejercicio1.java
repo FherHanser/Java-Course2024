@@ -33,8 +33,6 @@ public class Ejercicio1 {
         System.out.println("El pago total es: "+ salarioTotal);
 
 
-
     }
-
 
 }
