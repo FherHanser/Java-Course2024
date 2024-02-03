@@ -24,7 +24,20 @@ What You Will Learn
 
 # Requirements
 
-    Download NetBeans for Java programming
+### IntelliJ IDEA 2023.3.3 (Ultimate Edition)
+Build #IU-233.14015.106, built on January 24, 2024
+Licensed to Trial User
+Subscription is active until February 29, 2024.
+Runtime version: 17.0.9+7-b1087.11 amd64
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+Windows 11.0
+GC: G1 Young Generation, G1 Old Generation
+Memory: 2048M
+Cores: 4
+Registry:
+ide.experimental.ui=true
+Kotlin: 233.14015.106-IJ
+
     No prior knowledge required; this course starts from scratch
 
 # Who Is This Course For?
@@ -60,7 +73,21 @@ Lo Que Aprenderás
 
 ## Requisitos
 
-    Descargar NetBeans para programar en Java
+    Descargar Cualquier IDE, este fue realizado con:
+### IntelliJ IDEA 2023.3.3 (Ultimate Edition)
+Build #IU-233.14015.106, built on January 24, 2024
+Licensed to Trial User
+Subscription is active until February 29, 2024.
+Runtime version: 17.0.9+7-b1087.11 amd64
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+Windows 11.0
+GC: G1 Young Generation, G1 Old Generation
+Memory: 2048M
+Cores: 4
+Registry:
+ide.experimental.ui=true
+Kotlin: 233.14015.106-IJ
+
     No se necesitan conocimientos previos; este curso comienza desde cero
 
 ## ¿Para Quién Es Este Curso?
@@ -70,5 +97,7 @@ Lo Que Aprenderás
     Estudiantes universitarios
     Estudiantes de instituto
 
-## Código Realiza con base al curso : Aprende Programación en Java (de Básico a Avanzado)
+## Código realizado con base al curso : Aprende Programación en Java (de Básico a Avanzado)
 ## de Alejandro Taboada - UDEMY
+
+https://www.udemy.com/course/draft/802946/learn/lecture/7729346#overview
