@@ -6,7 +6,7 @@
 
 package ejercicios;
 
-import java.sql.SQLOutput;
+
 import java.util.Scanner;
 
 public class Ejercicio7 {
