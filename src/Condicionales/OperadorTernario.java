@@ -1,3 +1,10 @@
+/*
+* Operador Ternario
+*
+* variable = (condicion) ? respuesta 1 : respuesta 2;
+* */
+
+
 package Condicionales;
 
 import javax.swing.*;
