@@ -4,7 +4,7 @@
 * */
 
 
-package ejercicios;
+package Operadores.Ejercicios;
 
 
 import java.util.Scanner;

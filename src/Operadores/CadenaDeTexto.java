@@ -1,3 +1,5 @@
+package Operadores;
+
 public class CadenaDeTexto {
 
     public static void main(String[] args) {

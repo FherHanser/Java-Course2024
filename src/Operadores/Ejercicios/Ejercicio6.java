@@ -2,7 +2,7 @@
  * Hacer un programa que calcule el caudrado de una suma (a+b)2
  * */
 
-package ejercicios;
+package Operadores.Ejercicios;
 
 import java.util.Scanner;
 
