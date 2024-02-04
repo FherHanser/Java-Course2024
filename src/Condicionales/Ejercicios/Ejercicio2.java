@@ -21,13 +21,10 @@ public class Ejercicio2 {
         //Operación y Respuesta
         if (numeroUno == numeroDos) {
             JOptionPane.showMessageDialog(null, "El Primer Número es IGUAL al Segundo Número");
-        }
-        if (numeroUno > numeroDos) {
+        } else if (numeroUno > numeroDos) {
             JOptionPane.showMessageDialog(null, "El Primer Número es MAYOR al Segundo Número");
         } else {
             JOptionPane.showMessageDialog(null, "El Segundo Número es MAYOR al Primer Número");
-
         }
-
     }
 }
