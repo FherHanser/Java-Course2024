@@ -1,3 +1,9 @@
+/*
+* Condicionales Simples (if)
+* Condicionales Dobles (if - else)
+*
+* */
+
 package Condicionales;
 
 import javax.swing.*;
@@ -18,7 +24,7 @@ public class Condicional_IfElse {
             JOptionPane.showMessageDialog(null, "El número ingresado es 5");
 
         } else {
-            JOptionPane.showMessageDialog(null, "El número es diferente de 5");
+            JOptionPane.showMessageDialog(null, "El número " + numero + " es diferente de 5");
 
         }
     }
