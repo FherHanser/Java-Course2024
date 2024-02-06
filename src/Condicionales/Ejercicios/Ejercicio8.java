@@ -30,6 +30,8 @@ public class Ejercicio8 {
             JOptionPane.showMessageDialog(null, "El número " + numero + "tiene TRES cifras.");
         } else if (numero < 10000) {
             JOptionPane.showMessageDialog(null, "El número" + numero + "tiene CUATRO cifras.");
+        } else if (numero < 100000) {
+            JOptionPane.showMessageDialog(null, "El número" + numero + "tiene CUATRO cifras.");
         }
 
     }
